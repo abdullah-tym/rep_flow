@@ -1,5 +1,10 @@
-#
 Flask
 gunicorn
 python-dotenv
 Flask-SQLAlchemy
+Flask-Login
+Flask-Mail
+Flask-WTF
+Flask-Cors
+Werkzeug
+psycopg2-binary
