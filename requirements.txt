@@ -1,4 +1,3 @@
-blueprints
 Flask
 gunicorn
 python-dotenv
